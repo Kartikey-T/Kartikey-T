@@ -12,6 +12,3 @@ Tech Stack:
   
 Interested in:
 - Systems design • AI • Product engineering • Startups • High-impact technology
-  
-### Connect with me
-Email: ktindia2005@gmail.com 
