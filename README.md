@@ -6,6 +6,9 @@ I’ve worked on:
 - AI SaaS platforms
 - 3D browser-based game systems
 - Product-grade web applications with real authentication, APIs, and databases
+
+  💻 Tech Stack:
+C++ JavaScript NodeJS React Socket.io Context-API Bootstrap Express.js NPM MongoDB MySQL Postgres Figma
   
 Interested in:
 - Systems design • AI • Product engineering • Startups • High-impact technology
