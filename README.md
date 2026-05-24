@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Kartikey-T/Kartikey-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kartikey, a software developer from India, passionate about building products that solve real problems.
 
-Here are some ideas to get you started:
+- Currently focused on full-stack engineering, backend systems, and building products that solve meaningful problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve worked on:
+- AI SaaS platforms
+- 3D browser-based game systems
+- Product-grade web applications with real authentication, APIs, and databases
+
+ Tech I use:
+- React • Node.js • TypeScript • Python • PostgreSQL • MongoDB • AI APIs
+
+Current mission:
+Become an exceptional software engineer and build products at serious scale.
+
+# Interested in:
+# Systems design • AI • Product engineering • Startups • High-impact technology
+
+- Building. Learning. Compounding.
+
+### Connect with me
+Email: ktindia2005@gmail.com  
